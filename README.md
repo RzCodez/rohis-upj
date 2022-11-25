@@ -6,6 +6,7 @@ IND: Repositori ini berisi aset-aset untuk kebutuhan pengembangan website Rohis 
 
 |                   |  UPDATE LISTS!        |            |
 | ------------------------------------------------------ |
+
 | Last Updated      | What's New            | Status     |
 | ----------------- | --------------------- | ---------- |
 | 11/25/2022        | Testing website       | Success ✅ |
