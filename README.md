@@ -12,11 +12,12 @@ IND: Repositori ini berisi aset-aset untuk kebutuhan pengembangan website Rohis 
 | 11/25/2022        | Testing website       | Success ✅ |
 
 
-| UPDATE LIST  | UPDATE LIST | update list |
-| ------------ | ------------ | ------------ |    
-| Last Updated | What's New | Status |
-|              |  |  |
-|              |  |  |
-|              |  |  |
-|              |  |  |
-|              |  |  |
+| :                   MathJax \|\| Image                 : |||
+| :------------ | :-------- | :----------------------------- |
+| Apple         | : Apple : | Apple                          \
+| Banana        | Banana    | Banana                         \
+| Orange        | Orange    | Orange                         |
+| :     Rowspan is 4     : || :        How's it?           : |
+| ^^     A. Peach          ||    1. ![example][cell-image]   |
+| ^^     B. Orange         || ^^ 2. $I = \int \rho R^{2} dV$ |
+| ^^     C. Banana         || **It's OK!**                   |
