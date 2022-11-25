@@ -16,14 +16,14 @@ IND: Repositori ini berisi aset-aset untuk kebutuhan pengembangan website Rohis 
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0pky" colspan="3"></th>
+    <th class="tg-0pky" colspan="3">UPDATE LISTS!</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Last Updated</td>
+    <td class="tg-0pky">What's New</td>
+    <td class="tg-0pky">Status</td>
   </tr>
 </tbody>
 </table>
