@@ -13,14 +13,14 @@ IND: Repositori ini berisi aset-aset untuk kebutuhan pengembangan website Rohis 
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky">Last Updated</td>
-    <td class="tg-0pky">What's New</td>
+    <td class="tg-0pky" align="center">Last Updated</td>
+    <td class="tg-0pky" align="center">What's New</td>
     <td class="tg-0pky" align="center">Status</td>
   </tr>
   <tr>
-    <td class="tg-0pky">11/25/2022</td>
-    <td class="tg-0pky">Testing website</td>
-    <td class="tg-0pky">Success ✅</td>
+    <td class="tg-0pky" align="center">11/25/2022</td>
+    <td class="tg-0pky" align="center">Testing website</td>
+    <td class="tg-0pky" align="center">Success ✅</td>
   </tr>
 </tbody>
 </table>
