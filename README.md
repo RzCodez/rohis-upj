@@ -4,6 +4,8 @@ ENG: This repository contains assets for the needs of developing a Rohis UPJ web
 
 IND: Repositori ini berisi aset-aset untuk kebutuhan pengembangan website Rohis UPJ
 
+|                      UPDATE LISTS!                     |
+| ------------------------------------------------------ |
 | Last Updated      | What's New            | Status     |
 | ----------------- | --------------------- | ---------- |
 | 11/25/2022        | Testing website       | Success ✅ |
