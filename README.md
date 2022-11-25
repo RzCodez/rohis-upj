@@ -7,5 +7,6 @@ IND: Repositori ini berisi aset-aset untuk kebutuhan pengembangan website Rohis 
 | Syntax      | Description | Test Text     |
 | :---        |    :----:   |          ---: |
 | Header      | Title       | Here's this   |
-| ----------- | ----------- | ------------- |
+| Header      | Title       | Here's this   |
+| Header      | Title       | Here's this   |
 | Header      | Title       | Here's this   |
