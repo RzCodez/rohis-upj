@@ -15,9 +15,7 @@ IND: Repositori ini berisi aset-aset untuk kebutuhan pengembangan website Rohis 
   <tr>
     <td class="tg-0pky">Last Updated</td>
     <td class="tg-0pky">What's New</td>
-    <td class="tg-0pky">
-      <center>Status</center>
-    </td>
+    <td class="tg-0pky" align="center">Status</td>
   </tr>
   <tr>
     <td class="tg-0pky">11/25/2022</td>
